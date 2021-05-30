@@ -1,5 +1,6 @@
 Assignment 1
 
+The graphs were plotted taking 7000 points in range(0 to 7) taking a step size of 0.001
 
 ![image](https://user-images.githubusercontent.com/55408525/120102886-e5bf1280-c16e-11eb-95a7-db4da38acfcf.png)
 
