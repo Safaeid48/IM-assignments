@@ -1,3 +1,4 @@
 Assignment 1
-![image](https://user-images.githubusercontent.com/55408525/120100982-8ad4ed80-c165-11eb-99ff-1a1d74e70a4b.png)
+![image](https://user-images.githubusercontent.com/55408525/120102707-236f6b80-c16e-11eb-8625-393ef8fac492.png)
+
 
